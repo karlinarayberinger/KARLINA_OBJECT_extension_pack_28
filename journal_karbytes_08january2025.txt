@@ -1,4 +1,10 @@
-// journal_karbytes_08january2025.txt
+/**
+ * file: journal_karbytes_08january2025.txt
+ * type: plain-text
+ * date: 06_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 The air purifier which I bought last month and have had since running at full blast in my room at my current legal residence has an indicator light on it which changes colors according to the amount of air pollution it detects (and I have left the room's window fully open while the curtains are drawn permanently closed). I have seen that indicator light spontaneously change from "excellent" to "fair" (which lead me to conclude that a significant amount of second-hand or third-hand is present in that room and that some of the third-hand cigarette smoke residue on the walls which accumulated during the years the house was inhabited by multiple heavy smokers who smoked indoors (and those people were my now deceased paternal grandmother and my father who was living with her after my parents decided to reside at separate houses due to some kind of conflict). I remember reading a news article published via Lawrence Berkeley National Laboratory approximately one decade ago about how third-hand cigarette smoke is a hidden health hazard which is about as dangerous as second-hand smoke (yet harder for the naked human senses to detect). To get around that issue, I decided to move my setup to the backyard immediately outside of that bedroom so that I can fish power cords through the small hole I made in the screen approximately one year ago to power my electronics (and I plan to use the tent which is packed away in my closet if it rains). 
 
