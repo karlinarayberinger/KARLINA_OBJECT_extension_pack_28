@@ -8,6 +8,8 @@
 
 Note to self: I ought to host an .onion web page whose source code is a slightly augmented version of the source code files which comprise the single web page client-side (and JavaScript) software application named SOUND_TRACK_LOOP_COUNTER which is featured on the following tutorial web page (and perhaps by making MP3 (audio) files of all the MP4 (video) files within karbytes as of a specific time).
 
+https://karlinaobject.wordpress.com/sound_track_loop_counter/
+
 Enable audio. Make a light web version using Apache while simultaneously running the A and B dark websites on the same hardware device (which is currently a Lenovo laptop in karbytes' closet (or it can be assumed)).
 
 I am up for the challenge but think it also sounds time-consuming and perhaps not all that useful nor worthwhile. That's just so I can make my own ghetto version of myNoise dot net (featuring pig_gorl and other "random" karbytes-accumulated sound effects in digital recorded formats).
