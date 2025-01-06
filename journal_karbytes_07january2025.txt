@@ -1,4 +1,10 @@
-// journal_karbytes_07january2025.txt
+/**
+ * file: journal_karbytes_07january2025.txt
+ * type: plain-text
+ * date: 05_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 To Whom It May Concern:
 
