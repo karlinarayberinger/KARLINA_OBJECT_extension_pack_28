@@ -14,7 +14,7 @@ Generate a description of Ojai and what it might be like to visit (especially as
 
 ChatGPT:
 
-[that dalle image in the same repo. will update this to image url]
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/DALLE_2025_01_05_08_14_01_A_scenic_depiction_of_Ojai_California.jpg]
 
 A scenic depiction of Ojai, California, capturing its serene valley setting surrounded by the Topatopa Mountains. The image features a sunset with the famous 'pink moment' glow on the mountains, lush citrus groves, and a charming small-town ambiance with Spanish-style architecture. The foreground includes a winding trail lined with oak trees and wildflowers, embodying tranquility and natural beauty. The atmosphere is peaceful and inviting, perfect for reflection and inspiration.
 
