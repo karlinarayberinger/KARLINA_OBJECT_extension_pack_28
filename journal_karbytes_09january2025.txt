@@ -13,3 +13,7 @@ tutorial_web_page_url: https://karlinaobject.wordpress.com/sound_track_loop_coun
 Enable audio. Make a light web version using Apache while simultaneously running the A and B dark websites on the same hardware device (which is currently a Lenovo laptop in karbytes' closet (or it can be assumed)).
 
 I am up for the challenge but think it also sounds time-consuming and perhaps not all that useful nor worthwhile. That's just so I can make my own ghetto version of myNoise dot net (featuring pig_gorl and other "random" karbytes-accumulated sound effects in digital recorded formats).
+
+* * *
+
+After some consideration, I decided to possibly not do the aforementioned project at all or, what I think is more probable, use only the MP3 files which are "factory installed" with the original software application.
