@@ -1,5 +1,5 @@
 /**
- * file: journal_karbytes_karbytes_13january2025.txt
+ * file: journal_karbytes_13january2025.txt
  * type: plain-text
  * date: 08_JANUARY_2025
  * author: karbytes
@@ -10,7 +10,9 @@ The following Uniform Resource Locators (URLs) each lead to exactly one live (an
 
 The following list of URLs refers to every web page which is part of the aforementioned website named Karlina Object dot WordPress dot Com and also the web page named SOFTWARE_ENGINEERING_PORTFOLIO of the (karbytes-created) website named Karbytes For Life Blog dot WordPress dot Com.
 
-Note that each of the following URLs are the web addresses of dark web hosted JavaScript-powered single web page applications and require a dark web browser such as The Onion Router (browser) to use.
+Note that each of the following URLs are the web addresses of dark web hosted JavaScript-powered single web page applications and require a dark web browser such as The Onion Router (Tor) to use.
+
+Note that software applications which are featured on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com but not also the aforementioned website named Karlina Object dot WordPress dot Com are not referenced on this web page due to the fact that some of those applications require the web browser which renders them to generate auditory output (using sound-related Application Programming Interfaces (APIs) which the Tor browser (at least for karbytes) was not enabling). Hence, each of the software applications which are featured in the list below these introductory paragraphs are fully functional (at least for karbytes) via the Tor browser. 
 
 * * *
 
