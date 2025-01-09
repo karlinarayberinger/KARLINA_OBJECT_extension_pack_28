@@ -32,6 +32,9 @@ BASE_CONVERTER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.
 
 TRIANGLE_GRAPHING: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/TRIANGLE_GRAPHING/triangle_graphing.html
 
+PI_APPROXIMATION: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/PI_APPROXIMATION/pi_approximation.html
+
+
 
 
 
