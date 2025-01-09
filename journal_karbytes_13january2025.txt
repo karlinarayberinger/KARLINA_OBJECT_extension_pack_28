@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following Uniform Resource Locators (URLs) each lead to exactly one live (and client-rendered (rather than server-rendered) via a web broswer application) single web page application whose constituent source code files (i.e. JavaScript, HTML, and CSS) and media files (i.e. MP3, PNG) are showcased in exactly one uniquely corresponding tutorial web page included in the (karbytes-created) website named Karlina Object dot WordPress dot Com. 
+The following Uniform Resource Locators (URLs) each lead to exactly one live (and client-rendered (rather than server-rendered) via a web broswer application) single web page application whose constituent source code files (i.e. JavaScript, HTML, and CSS) and media files (i.e. MP3, WAV, PNG) are showcased in exactly one uniquely corresponding tutorial web page included in the (karbytes-created) website named Karlina Object dot WordPress dot Com. 
 
 The following list of URLs refers to every web page which is part of the aforementioned website named Karlina Object dot WordPress dot Com and also the web page named SOFTWARE_ENGINEERING_PORTFOLIO of the (karbytes-created) website named Karbytes For Life Blog dot WordPress dot Com.
 
