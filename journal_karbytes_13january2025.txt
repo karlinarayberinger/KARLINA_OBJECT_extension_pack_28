@@ -26,7 +26,7 @@ COUNT_DOWN_TIMER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3y
 
 BITS_AND_BYTES: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/BITS_AND_BYTES/binary_to_decimal.html
 
-HEXIDECIMAL_COLOR_CODES: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/BITS_AND_BYTES/hexidecimal_color_codes.html
+HEXIDECIMAL_COLOR_CODES: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/HEXIDECIMAL_COLOR_CODES/hexidecimal_color_codes.html
 
 
 
