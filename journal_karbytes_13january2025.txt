@@ -14,6 +14,8 @@ Note that each of the following URLs are the web addresses of dark web hosted Ja
 
 Note that software applications which are featured on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com but not also the aforementioned website named Karlina Object dot WordPress dot Com are not referenced on this web page due to the fact that some of those applications require the web browser which renders them to generate auditory output (using sound-related Application Programming Interfaces (APIs) which the Tor browser (at least for karbytes) was not enabling). Hence, each of the software applications which are featured in the list below these introductory paragraphs are fully functional (at least for karbytes) via the Tor browser. 
 
+Note that COUNT_DOWN_TIMER alert sound effect took approximately three seconds longer to play when that application was rendered via the Tor browser and served as an .onion web page than when that application was rendered via the Firefox browser entirely locally (i.e. without an Internet connection between non-identical client and server machines).
+
 * * *
 
 SOUND_TRACK_LOOP_COUNTER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/SOUND_TRACK_LOOP_COUNTER/sound_track_looper.html
