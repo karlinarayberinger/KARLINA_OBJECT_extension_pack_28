@@ -34,6 +34,9 @@ TRIANGLE_GRAPHING: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3
 
 PI_APPROXIMATION: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/PI_APPROXIMATION/pi_approximation.html
 
+PROBABILITY: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/PROBABILITY/probability.html
+
+
 
 
 
