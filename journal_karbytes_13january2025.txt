@@ -16,9 +16,9 @@ Note that software applications which are featured on the aforementioned website
 
 * * *
 
-SOUND_TRACK_LOOP_COUNTER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/SOUND_TRACK_LOOP_COUNTER/sound_track_looper.html
+SOUND_TRACK_LOOP_COUNTER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/SOUND_TRACK_LOOP_COUNTER/sound_track_looper.html
 
-COUNT_DOWN_TIMER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/COUNT_DOWN_TIMER/count_down_timer.html
+COUNT_DOWN_TIMER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/COUNT_DOWN_TIMER/count_down_timer.html
 
 
 
