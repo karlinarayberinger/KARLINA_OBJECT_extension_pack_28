@@ -36,6 +36,9 @@ PI_APPROXIMATION: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3y
 
 PROBABILITY: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/PROBABILITY/probability.html
 
+WORD_COUNTER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/WORD_COUNTER/word_counter.html
+
+
 
 
 
