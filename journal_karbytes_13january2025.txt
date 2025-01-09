@@ -6,17 +6,17 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following Uniform Resource Locators (URLs) each lead to exactly one live (and client-rendered (rather than server-rendered) via a web broswer application) single web page application whose constituent source code files (i.e. JavaScript, HTML, and CSS) and media files (i.e. MP3, WAV, PNG) are showcased in exactly one uniquely corresponding tutorial web page included in the (karbytes-created) website named Karlina Object dot WordPress dot Com. 
+The following Uniform Resource Locators (URLs) each lead to exactly one live (and client-rendered (rather than server-rendered) via a web browser application) single web page application whose constituent source code files (i.e. JavaScript, HTML, and CSS) and media files (i.e. MP3, WAV, PNG) are showcased in exactly one uniquely corresponding tutorial web page included in the (karbytes-created) website named Karlina Object dot WordPress dot Com.
 
 The following list of URLs refers to every web page which is part of the aforementioned website named Karlina Object dot WordPress dot Com and also the web page named SOFTWARE_ENGINEERING_PORTFOLIO of the (karbytes-created) website named Karbytes For Life Blog dot WordPress dot Com and which is specifically a client-side JavaScript application (in the end user format of a single web page application).
 
 Note that each of the following URLs are the web addresses of dark web hosted JavaScript-powered single web page applications and require a dark web browser such as The Onion Router (Tor) to use.
 
-Note that software applications which are featured on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com but not also the aforementioned website named Karlina Object dot WordPress dot Com are not referenced on this web page due to the fact that some of those applications require the web browser which renders them to generate auditory output (using sound-related Application Programming Interfaces (APIs) which the Tor browser (at least for karbytes) was not enabling (and note that generating sound from the web browser (such as what happens when the end user clicks relevant keyboard keys while using the application named ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT) is not the same thing as the web browser playing a sound file of a predetermined audio output signal pattern)). Hence, each of the software applications which are featured in the list below these introductory paragraphs are fully functional (at least for karbytes) via the Tor browser. 
+Note that software applications which are featured on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com but not also the aforementioned website named Karlina Object dot WordPress dot Com are not referenced on this web page due to the fact that some of those applications require the web browser which renders them to generate auditory output (using sound-related Application Programming Interfaces (APIs) which the Tor browser (at least for karbytes) was not enabling (and note that generating sound from the web browser (such as what happens when the end user clicks relevant keyboard keys while using the application named ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT) is not the same thing as the web browser playing a sound file of a predetermined audio output signal pattern)). Hence, each of the software applications which are featured in the list below these introductory paragraphs are fully functional (at least for karbytes) via the Tor browser.
 
 Note that COUNT_DOWN_TIMER alert sound effect took approximately three seconds longer to play when that application was rendered via the Tor browser and served as an .onion web page than when that application was rendered via the Firefox browser entirely locally (i.e. without an Internet connection between non-identical client and server machines).
 
-Finally, note that the following applications were listed in an order which karbytes found to be "intuitively appealing" rather than in the order in which those applications were initially published or most recently updated. (A complete list of software applications couched in their respective tutorial web pages which are part of the body of intellectual property referred to as karbytes is available at the following URL: https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/ ).
+Finally, note that the following applications were listed in an order which karbytes found to be “intuitively appealing” rather than in the order in which those applications were initially published or most recently updated. (A complete list of software applications couched in their respective tutorial web pages which are part of the body of intellectual property referred to as karbytes is available at the following URL: https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/ ).
 
 * * *
 
@@ -36,11 +36,4 @@ PI_APPROXIMATION: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3y
 
 PROBABILITY: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/PROBABILITY/probability.html
 
-WORD_COUNTER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/WORD_COUNTER/word_counter.html
-
-
-
-
-
-
-
+WORD_COUNTER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/WORD_COUNTER/word_counter.html 
