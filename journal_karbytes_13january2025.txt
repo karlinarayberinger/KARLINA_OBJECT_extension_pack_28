@@ -16,6 +16,8 @@ Note that software applications which are featured on the aforementioned website
 
 Note that COUNT_DOWN_TIMER alert sound effect took approximately three seconds longer to play when that application was rendered via the Tor browser and served as an .onion web page than when that application was rendered via the Firefox browser entirely locally (i.e. without an Internet connection between non-identical client and server machines).
 
+Finally, note that the following applications were listed in an order which karbytes found to be intuitively appealing rather than in the order in which those applications were initially published or most recently updated. (A complete list of software applications couched in their respective tutorial web pages which are part of the body of intellectual property referred to as karbytes is available at the following URL: https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/ ).
+
 * * *
 
 SOUND_TRACK_LOOP_COUNTER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/SOUND_TRACK_LOOP_COUNTER/sound_track_looper.html
