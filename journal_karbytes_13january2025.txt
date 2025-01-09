@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_13january2025.txt
  * type: plain-text
- * date: 08_JANUARY_2025
+ * date: 09_JANUARY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -27,6 +27,8 @@ COUNT_DOWN_TIMER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3y
 BITS_AND_BYTES: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/BITS_AND_BYTES/binary_to_decimal.html
 
 HEXIDECIMAL_COLOR_CODES: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/HEXIDECIMAL_COLOR_CODES/hexidecimal_color_codes.html
+
+BASE_CONVERTER: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_APPS/BASE_CONVERTER/base_converter.html
 
 
 
