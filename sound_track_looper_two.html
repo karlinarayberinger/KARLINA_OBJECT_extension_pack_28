@@ -1,0 +1,41 @@
+<!--
+/**
+ * file: sound_track_looper_two.html
+ * type: Hyper-Text-Markup-Language
+ * author: karbytes
+ * date: 09_JANUARY_2025
+ * license: PUBLIC_DOMAIN
+ */
+ -->
+ <!DOCTYPE html>
+ <html>
+ <head>
+   <meta charset="UTF-8">
+   <title>SOUND_TRACK_LOOPER_TWO</title> 
+   <link rel="stylesheet" href="karbytes_aesthetic.css">
+   <link rel="stylesheet" href="bordered_container.css">
+   <script src="sound_track_looper_two.js"></script>
+ </head>
+ <body onload="load_web_page()">
+   <div class="bordered_container">
+     <h1>SOUND_TRACK_LOOPER_TWO</h1>
+     <p>Play one (or multiple) sound pattern(s) (whose duration(s) is(are) finite) for some indefinite number of cycles.</p>
+     <p><em>(If you are experiencing this app via Tor on a mobile device, please ensure that audio is enabled in that browser's settings).</em></p>
+     <p><em>(Note that there may be a delay of several seconds before a sound file is played due to network latency across the Tor network).</em></p>
+   </div>
+   <div class="bordered_container">
+     <p>1) Select one or multuple sound files from the list below.</p>
+     <p><select id="sound_file_menu"></select></p>
+     <p>2) Click the button to start playing the sound selected file(s).</p>
+     <p><input id="the_button" type="button" value="start_sound_track_looper()" onclick="start_sound_track_looper()"></p>
+   </div>
+   <div id="output" class="bordered_container">
+     <p>Seconds Elapsed:&nbsp;<span id="seconds_elapsed_display" class="data">???</span></p>
+     <p>Loops Completed:&nbsp;<span id="loops_completed_display" class="data">???</span></p>
+     <p>File Selected:&nbsp;<span id="file_selected_display" class="data">???</span></p>
+   </div>
+   <div class="bordered_container">
+     <p class="console" id="console_display">???</p>
+   </div>
+ </body>
+ </html>
