@@ -14,6 +14,8 @@ karbytes:
 
 Describe the following image.
 
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/kabytes_hard_coded_backup_mdisc_10jan2025_2pm_pst.jpg]
+
 ChatGPT:
 
 The image shows a close-up of a hand holding a pink translucent CD case containing a labeled optical disc. The label on the disc reads "KARBYTES 10JAN 2025" written in bold marker. In the background, a laptop screen is visible with an application confirming a successful disc burning process, displaying the message "Data CD successfully burned." The laptop is set against a striped fabric surface, and there is a reddish-pink tint cast across the scene, possibly due to lighting conditions, such as being inside a tent. A Firefox browser window is partially visible on the laptop, showing an interface referencing GitHub.
@@ -23,8 +25,6 @@ The image shows a close-up of a hand holding a pink translucent CD case containi
 karbytes:
 
 What else do you infer about that image?
-
-[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/kabytes_hard_coded_backup_mdisc_10jan2025_2pm_pst.jpg]
 
 ChatGPT:
 
