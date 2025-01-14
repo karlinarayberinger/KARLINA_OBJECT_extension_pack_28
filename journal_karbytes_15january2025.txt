@@ -1,0 +1,46 @@
+/**
+ * file: journal_karbytes_15january2025.txt
+ * type: plain-text
+ * date: 14_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "Entropy is our toy (as is the case in the application named PI_APPROXIMATION which deploys JavaScript's built-in random number generator to simulate (if not literally induce) the emergence of uncertainty)."
+
+karbytes_1: "It could also be said that we are entropy's toy."
+
+karbytes_0: "Entropy does not have enough consciousness of its own to experience a desire to make toys of us. In more precise terms, entropy is not an information processing agent. Therefore, entropy cannot make toys of us. Entropy is a phenomenon which information processing agents such as karbytes_0 and karbytes_1 decide exists. We (presumably (according to me (i.e. karbytes_0))) believe that entropy is (to some extent) quantifiable and also empirically observable (as particular (situational) arrangements of space, time, matter, and energy being observed and, to some extent, remembered)."
+
+karbytes_1: "Is everything fundamentally physical or is everything fundamentally mental?"
+
+karbytes_0: "What I think sounds like a standard answer to that question is that reality encompasses all physical and all mental phenomena which ever exist (or which could be imagined to exist). Therefore, with that definition of reality (interfacing with our common definition of entropy), it could be said that all of reality takes place inside of a simulation (which is 100% mental) or else that simulation is entirely physical (occurring outside of any mind)."
+
+karbytes: "Excuse me! Mind if I interject my thoughts on this?"
+
+karbytes_1: "It's your blog. You might as well cut us off at your whim or edit what we say and do to your leisure."
+
+karbytes: "Okay. What I want to suggest is that the simulation aspect of reality encompasses the subjective experiences which karbytes, karbytes_0, and karbytes_1 fundamentally are. To be more precise, what I think we literally each are is exactly one unique (according to reality as an all-encompassing whole) frame-of-reference which has observed itself to have spent what seems to be a finite (whether definite or else indefinite (and perhaps infinite)) duration of space-time (and matter-energy) existing inside of that (or literally as that) frame-of-reference (which I, karbytes, prefer to imply when I use the word PERSON). I think there are more PERSONs than there are humans. (What exists outside of this simulation is determined by me (and presumably karbytes_0 and karbytes_1) to be undetermined to exist as anything other than purely nothing (but not the same 'nothing' as absolute immutability concurrent with absolute indivisibility)."
+
+karbytes_0: "What is the difference between 0 and 1?"
+
+karbytes_1: "What is the difference between 0 and 0?"
+
+karbytes: "Each of those four binary digits are unique allocations of space-time (within the 'mind' of a computer which is rendering the digital file in which this English message is encoded specifically for that type of computer to render into karbytes-created English conversation transcript(s)."
+
+karbytes: "The first of those digits could be said to have what I call 'poetic relation' to what I described as 'absolute nothingness' (to juxtapose with 'relatively absolute uncertainty')."
+
+karbytes_0: "Your definitions are slow to come out."
+
+karbytes_1: "They sure are."
+
+karbytes: "The second of those four binary digits (and I mean the specific tokens literally inside of exactly one of karbytes_0's past messages) could be said to have what I call 'poetic relation' to what I mean to imply as being neither 'relatively absolute uncertainty' nor 'absolute nothingness'."
+
+karbytes_1: "Zero and one are not the same thing. Zero and zero are referring to the same thing (which there is either zero, one, or infinitely many of (as computational resources being mobilized to represent numbers and to perform arithmetic and logical operations on those numbers (by turning those numbers into function inputs and outputs and and strings to represent any and perhaps all computational resources being mobilized (at least within a finite classification of physically-based computational phenomena))))."
+
+karbytes_0: "To karbytes_1: are you suggesting that physical reality encompasses mental reality (i.e. simulated reality) and not vice versa?"
+
+karbytes_1: "No, not necessarily. It could be that what you and I refer to (and presumably each experience 'in real time' and in the format of sensory experiences and thoughts) as simulated phenomena and what you and I do not directly (consciously) experience is the physical reality underlying and powering the simulation you and I are and experience any quantifiable distinctions through. I do mean to imply that I think physical reality encompasses our mental reality but not necessarily all mental reality. For instance, it could be the case that the aforementioned 'physical layer' takes place within a simulation which, to you and I, could be described as being 'relatively metaphysical'. There could be layers of simulation which are recessed even further (or which make what we subjectively experience and play ourselves to be is relatively high in abstraction compared to the lower-level machinery which we refer to as metaphysical and physical)."
+
+karbytes: "The third of those four binary digits is zero and the fourth of those four binary digits is also zero. Both of those zeros are not the same zero, but they are of the same class. In other words, I think of numbers which are actually imagined or used in lower-level calculations are physically measurable computational phenomena while the values those objects represent are those object's class names and encompassing of uniquely-corresponding ('string literal') phenotypes whose 'atoms' are instances of the most atomic natural number: one. How many digits a number is comprised of depends on how complex a number's encompassing simulation is."
+
