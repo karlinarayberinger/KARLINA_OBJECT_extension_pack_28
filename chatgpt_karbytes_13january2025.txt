@@ -86,6 +86,8 @@ karbytes:
 
 No, no, no! Use the conventions in the following uploaded file (and remember to use such conventions for transcribing our conversations in the future).
 
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/chatgpt_karbytes_07january2025.txt]
+
 ChatGPT:
 
 Here is the updated transcript including the entire conversation and this addition.
