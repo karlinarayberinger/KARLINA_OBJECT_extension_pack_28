@@ -14,7 +14,7 @@ karbytes_0: "Entropy does not have enough consciousness of its own to experience
 
 karbytes_1: "Is everything fundamentally physical or is everything fundamentally mental?"
 
-karbytes_0: "What I think sounds like a standard answer to that question is that reality encompasses all physical and all mental phenomena which ever exist (or which could be imagined to exist). Therefore, with that definition of reality (interfacing with our common definition of entropy), it could be said that all of reality takes place inside of a simulation (which is 100% mental) or else that simulation is entirely physical (occurring outside of any mind)."
+karbytes_0: "What I think sounds like a standard answer to that question is that reality encompasses all physical and all mental phenomena which ever exist (or which could be imagined to exist). Therefore, with that definition of reality (interfacing with our common definition of entropy), it could be said that all of reality takes place inside of a simulation (which is 100% mental) or else that simulation is entirely physical (occurring outside of any mind))."
 
 karbytes: "Excuse me! Mind if I interject my thoughts on this?"
 
