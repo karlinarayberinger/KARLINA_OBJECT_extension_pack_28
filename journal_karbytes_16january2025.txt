@@ -1,0 +1,11 @@
+/**
+ * file: journal_karbytes_16january2025.txt
+ * type: plain-text
+ * date: 15_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "I predict that, within the next twenty to two hundred years, robots will take over so many essential jobs that most humans will not have jobs and would hence need to live on a government-issued basic income and/or donations from non-governmental entities."
+
+karbytes_1: "I doubt that humans will mostly be jobless during that time period nor any time sooner (nor even afterwards). That is because forcing people to go to work (or at least strongly incentivizing them to do so (especially in order to obtain and maintain social approval)) seems to 'liberate' people from having to depend too much on their own isolated efforts to contribute to their own welfare and to the welfare of the larger encompassing society (or, if more trans-species minded, contributing to the evolution and welfare of intelligence itself). What I think will happen is that robots will take over more than 80% of all jobs in human civilization and that nearly 100% of adult humans will be working full-time (i.e. no less than 30 hours per week and/or no less than four days per week) in 'filibuster' jobs that provide some 'token value' service to the employer while mostly benefiting the many humans who seem to thrive most optimally in a structured professional setting where they can collaborate with other people and provide a sense of community belonging. That way, humans are not necessarily paid to compete with robots nor with top-performing humans. Instead, humans are generally paid (by charitable employers) to show good attendance, cooperation with employer rules, and completion of relatively easy yet somewhat labor-intensive tasks."
