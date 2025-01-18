@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 10_JANUARY_2025
+ * date: 17_JANUARY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -115,3 +115,11 @@ On 10_JANUARY_2025 at approximately 11:30AM Pacific Standard Time, karbytes shar
 I'm sharing this article because I think it is a good primer on the topic of entropy (and not because I necessarily believe that death and loss of structural integrity of all material or informational forms are inevitable). 
 
 https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/
+
+* * *
+
+On 17_JANUARY_2025 at approximately 1:00PM Pacific Standard Time, karbytes shared the following radio station web application (and accompanying commentary) as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+Here's a nice random metal generator web page I found. 
+
+https://www.accuradio.com/metalasylum
