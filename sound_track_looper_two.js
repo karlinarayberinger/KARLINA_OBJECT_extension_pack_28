@@ -2,9 +2,44 @@
  * file: sound_track_looper_two.js
  * type: JavaScript
  * author: karbytes
- * date: 09_JANUARY_2025
+ * date: 18_JANUARY_2025
  * license: PUBLIC_DOMAIN
  */
+
+let track_count = 1; // This global variable is used to keep track how many sound track file menus are added to the application user interface.
+
+/**
+ * Dynamically add a new sound track menu to the application web page (and increment the global variable named track_count).
+ * 
+ * Assume this function is called in response to the add_another_sound_file_menu() button being clicked.
+ */
+function add_another_sound_file_menu() {
+	try {
+        let sound_file_menu_area = document.getElementById("sound_file_menu_area");
+
+        // Create a new paragraph (i.e. <p>) element.
+        let new_paragraph = document.createElement("p");
+
+        // Create a new menu (i.e. <select>) element.
+        let new_select = document.createElement("select");
+        new_select.id = "sound_file_menu_" + track_count;
+
+        // Populate the <select> with menu options.
+        new_select.innerHTML = get_menu_options();
+
+        // Append the <select> to the <p>.
+        new_paragraph.appendChild(new_select);
+
+        // Append the <p> to the menu area.
+        sound_file_menu_area.appendChild(new_paragraph);
+
+        // Increment the track count by one.
+        track_count += 1;
+	}
+	catch(e) {
+		console.log("An exception to normal functioning occurred during the runtime of add_another_sound_file_menu(): " + e);
+	}
+}
 
 /**
  * Get the Number of milliseconds which have elapsed since the Unix Epoch.
@@ -94,8 +129,8 @@ function load_web_page() {
 		document.getElementById("console_display").innerHTML = message;
 		document.getElementById("seconds_elapsed_display").innerHTML = "0";
 		document.getElementById("loops_completed_display").innerHTML = "0";
-		document.getElementById("sound_file_menu").innerHTML = get_menu_options();
-		document.getElementById("file_selected_display").innerHTML = get_selected_menu_option_value("sound_file_menu");
+		document.getElementById("sound_file_menu_0").innerHTML = get_menu_options();
+		document.getElementById("file_selected_display").innerHTML = get_selected_menu_option_value("sound_file_menu_0");
 		document.getElementById("the_button").style.display = "block";
 	}
 	catch(e) {
@@ -124,7 +159,7 @@ function start_sound_track_looper() {
 		let elapsed_seconds_display = document.getElementById("seconds_elapsed_display");
 		let loops_completed_display = document.getElementById("loops_completed_display");
 		let file_selected_display = document.getElementById("file_selected_display");
-		let selected_file_name = get_selected_menu_option_value("sound_file_menu");
+		let selected_file_name = get_selected_menu_option_value("sound_file_menu_0");
 		let button = document.getElementById("the_button");
 		let audio_file = undefined;
 		let loop_length = undefined;

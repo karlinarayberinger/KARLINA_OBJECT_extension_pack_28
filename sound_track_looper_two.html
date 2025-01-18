@@ -3,7 +3,7 @@
  * file: sound_track_looper_two.html
  * type: Hyper-Text-Markup-Language
  * author: karbytes
- * date: 09_JANUARY_2025
+ * date: 18_JANUARY_2025
  * license: PUBLIC_DOMAIN
  */
  -->
@@ -25,7 +25,10 @@
    </div>
    <div class="bordered_container">
      <p>1) Select one or multuple sound files from the list below.</p>
-     <p><select id="sound_file_menu"></select></p>
+     <div id="sound_file_menu_area">
+       <p><select id="sound_file_menu_0"></select></p>
+     </div>
+     <p><input id="add_another_sound_file_menu_button" type="button" value="add_another_sound_file_menu()" onclick="add_another_sound_file_menu()"></p>
      <p>2) Click the button to start playing the sound selected file(s).</p>
      <p><input id="the_button" type="button" value="start_sound_track_looper()" onclick="start_sound_track_looper()"></p>
    </div>
