@@ -5,6 +5,7 @@
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
+
 karbytes_0: "What I fundamentally am (at the most reductionist level of what a human individual SELF is) is the electricity flowing between the neurons in my brain; not any of those neurons nor all of those neurons."
 
 karbytes_1: "According to me, you appear to be implying that you are not the electricity which flows through any piece of matter other than your brain (and perhaps, also, your SELF included the electricity which flows through your brain's larger encompassing nervous system which extends outward from your brain and down your spine to the 'two-dimensional' spatial boundary which is your skin (and perhaps your notion of your own SELF also includes the electricity which flows through brain-to-computer interfacing hardware which is fused to your brain's neurons directly (and directly communicating with those neurons in a feedback loop between your brain and some external computer) or perhaps even through wireless electromagnetic signal transmission)."
