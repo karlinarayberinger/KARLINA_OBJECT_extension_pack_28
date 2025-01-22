@@ -124,7 +124,7 @@ file_57: PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip // 0.46 megabytes
 
 file_58: KARBYTES_JOURNAL_2022_PART_4-main.zip // 0.05 megabytes
 
-file_59: KARLINA_OBJECT_extension_pack_28-main_[undefined_day].zip // 452.00 megabytes
+file_59: KARLINA_OBJECT_extension_pack_28-main_[undefined_day].zip // 452.09 megabytes
 
 file_60: KARLINA_OBJECT_extension_pack_18-main.zip // 396.16 megabytes
 
@@ -256,6 +256,6 @@ file_122: KARBYTES_JOURNAL_2022_PART_14-main.zip // 53.35 megabytes
 
 Total number of files: 123
 
-Total folder size: 12282.46 megabytes
+Total folder size: 12282.55 megabytes
 
 --------------------------------
