@@ -1,0 +1,9 @@
+/**
+ * file: journal_karbytes_22january2025.txt
+ * type: plain-text
+ * date: 21_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Note to self: I should attempt to remote access my .onion websites using a laptop (either tethered to my phone or else logged onto a Wi-Fi network) instead of merely take my phone while leaving both of my laptop computers in personal storage spaces. (Note that I intend to keep my .onion websites running and publicly accessible via the Tor network for as long and for as frequently as possibly). The Tor browser application on my Android phone works terribly (even with Orbot apparently establishing a Tor network connection). I also intend to (re)configure my SCP between my two laptops such that I soley am authorized to remote update my .onion websites (such as when I am at Chabot Regional Park or some other suitable access point ideal for remote testing).
