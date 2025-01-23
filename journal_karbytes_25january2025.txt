@@ -1,4 +1,10 @@
-// journal_karbytes_25january2025.txt
+/**
+ * file: journal_karbytes_25january2025.txt
+ * type: plain-text
+ * date: 22_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 The following provides an overview of karbytes' basic ethical parameters and could be described as a sequel to the web page at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/karbytes_ontology/
 
