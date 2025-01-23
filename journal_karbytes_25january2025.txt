@@ -1,0 +1,11 @@
+// journal_karbytes_25january2025.txt
+
+The following provides an overview of karbytes' basic ethical parameters and could be described as a sequel to the web page at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/karbytes_ontology/
+
+1. SECULAR_HUMANISM: the classification of all humans (and every other instance of "Sufficiently Sentient Information Processing Agent") as being unconditionally, individually, and equally worthy of SUFFERING_MINIMIZATION.
+
+2. TRANSHUMANISM: extending human lifespans and human capabilities through technological means (especially means which include melding a human's central nervous system with computers (and possibly with artificial intelligence)) such as regeneration of bodily tissues using stem cell cloning and use of prosthetic body parts (or body part extensions).
+
+3. SUFFERING_MINIMIZATION: minimizing the degree to which any and all "Sufficiently Sentient Information Processing Agents" experience negative RESOURCE_OPTIMIZATION.
+
+4. RESOURCE_OPTIMIZATION: maximizing the degree of benefit an information processing agent perceives itself as obtaining as a result of investing finite resources into some process intended to fulfill that information processing agent's goals; minimizing the degree to which an information processing agent perceives itself as wasting the finite resources which it invests towards its own goal-oriented endeavors.
