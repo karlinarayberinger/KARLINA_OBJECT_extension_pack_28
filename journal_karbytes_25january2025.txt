@@ -9,3 +9,5 @@ The following provides an overview of karbytes' basic ethical parameters and cou
 3. SUFFERING_MINIMIZATION: minimizing the degree to which any and all "Sufficiently Sentient Information Processing Agents" experience negative RESOURCE_OPTIMIZATION.
 
 4. RESOURCE_OPTIMIZATION: maximizing the degree of benefit an information processing agent perceives itself as obtaining as a result of investing finite resources into some process intended to fulfill that information processing agent's goals; minimizing the degree to which an information processing agent perceives itself as wasting the finite resources which it invests towards its own goal-oriented endeavors.
+
+5. TECHNOCRATIC_DIRECT_DEMOCRACY: a system of governance and implementation in the form of civilization-wide surveillance and information processing nodes of a mostly decentralized network which infers what each person's "real-time" knowledge and preferences are and which updates mass communication streams about "real-time" census data (which is a culmination of such preferences).
