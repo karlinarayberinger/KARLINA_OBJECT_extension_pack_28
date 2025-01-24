@@ -1,13 +1,21 @@
 /**
  * file: journal_karbytes_26january2025.txt
  * type: plain-text
- * date: 23_JANUARY_2025
+ * date: 24_JANUARY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-Without going into the visceral details of my day today, I will state that I became cognizant of something which I think is interesting and recurrent as a pattern throughout nature (and particularly in contexts where mutually-corresponding abstract and physical constructs emerge and form one complete instance of (computationally-generated) qualia):
+23_JANUARY_2025: Without going into the visceral details of my day today, I will state that I became cognizant of something which I think is interesting and recurrent as a pattern throughout nature (and particularly in contexts where mutually-corresponding abstract and physical constructs emerge and form one complete instance of (computationally-generated) qualia):
 
 the idea that every discrete and constituent component of some whole software object, C, is accounted for by its encompassing virtual reality, B, inside of a (however course or fine in terms of detail resolution) space-time_mass-energy continuum which is modeled by and represented directly as that virtual environment (and the idea that such a virtual universe could possibly interact with its "lower-level" processes occurring inside of the (relatively physical) harware, A, which runs that virtual universe in a manner which is logical and such that the respective software object, C, could interact with its "physical environment", A, indirectly by interacting with its encompassing "virtual environment", B).
 
 If C is able to interact with B in a logically consistent manner (and C is an entirely-virtual information processing agent (with respect to A)) and if B is able to interact with A in a logically consistent manner, then C can interact in a logically consistent manner with A and, thereby, transcend levels of virtualization (which to me seems like one entity interacting with two seperate yet interacting universes simultaneously or else one of those universes at a time (but the only universe which C seems able to interact by itself is B while C has to interact with B first in order to then interact with A each time C tries to make an update to A)).
+
+* * *
+
+24_JANUARY_2025: In the photographic image I took yesterday and whose Uniform Resource Locator is displayed as the next paragraph in this file depicts a very narrow and sloped "pathway" around a relatively large body of water at Alviso baylands. Bike tire tracks from various travelers are carved into the dry yet soft hard-packed dirt (which is cracked at the surface due to expansion and contraction related to heat from the sun and temperatures in temperature). I was terrified especially the way forward which I biked along that narrow path today (though I did it several times before in the past without as much fear (or so I can recall within the past two days)). The traction on my tires seems iffy and the dirt beneath my wheels seemed like it was due to collapse into the basin of water after enough weight is pressing down on it. I also vaped a lot of cannabis (and took a psilomethoxin capsule) before entering the Alviso park (while sitting in the car which I was borrowing from my parents and using to quickly get a photo shoot done pertaining to the green light of Hanger One (is depicted in the bottom most URL on this web page)):
+
+url_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/baylands_alviso_san_jose_california_23jan2025_p18.jpg
+
+url_1: https://raw.githubusercontent.com/karlinarayberinger/
