@@ -18,4 +18,4 @@ If C is able to interact with B in a logically consistent manner (and C is an en
 
 url_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/baylands_alviso_san_jose_california_23jan2025_p18.jpg
 
-url_1: https://raw.githubusercontent.com/karlinarayberinger/
+url_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/baylands_(hangar_one)_mountain_view_ca_23jan2025.jpg
