@@ -12,10 +12,16 @@ The Mission of KARBYTES
 
 * * *
 
-karbytes_0: "I shall continue optiminizing the content quality of karbytes (including optimizing the process of archiving it to the wayback machine and m_discs owned by karbytes)."
+karbytes_0: “I shall continue optimizing the content quality of karbytes (including optimizing the process of archiving it to the wayback machine and m_discs owned by karbytes).”
 
-karbytes_1: "This web-hosted file (named 'journal_karbytes_27january2025.txt' and located at the Uniform Resource Locator (URL) which is shared by karbytes_2) is an extension of the ideology substantiated (at least in part) by the web-hosted file (named 'journal_karbytes_25january2025.txt' and located at the URL which is shared by karbytes_3)."
+karbytes_1: “This web-hosted file (named ‘journal_karbytes_27january2025.txt’ and located at the Uniform Resource Locator (URL) which is shared by karbytes_2) is an extension of the ideology substantiated (at least in part) by the web-hosted file (named ‘journal_karbytes_25january2025.txt’ and located at the URL which is shared by karbytes_3).”
 
-karbytes_2: "Here is the relevant aforementioned URL: [https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/journal_karbytes_27january2025.txt]."
+karbytes_2: “Here is the relevant aforementioned URL: [h​ttps://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/journal_karbytes_27january2025.txt].”
 
-karbytes_3: "Here is the relevant aforementioned URL: [https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/journal_karbytes_25january2025.txt]."
+karbytes_3: “Here is the relevant aforementioned URL: [https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_28/main/journal_karbytes_25january2025.txt].”
+
+karbytes_4: “The URL which the hyperlink text ‘relevant’ points to in the message which is output by karbytes_2 is as follows: [https://karbytesforlifeblog.wordpress.com/karbytes_ontology/].”
+
+karbytes_5: “The URL which the hyperlink text ‘relevant’ points to in the message which is output by karbytes_3 is as follows: [https://karbytesforlifeblog.wordpress.com/karbytes_primary_values/].”
+
+karbytes_6: “is : ought :: karbytes_3 : karbytes_2.” 
