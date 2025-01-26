@@ -232,32 +232,36 @@ document.addEventListener('keyup', (event) => {
     }
 });
 
-//***
-
-// Responds to the event of a UI keyboard key being touched
+/** 
+ * This function responds to the event of a UI keyboard key being touched 
+ * (and is logically equivalent to the physical key 'keydown' event listener function). 
+ */
 document.addEventListener('touchstart', (event) => {
-    // Get the touched element
+    // Get the touched web page element.
     const target = event.target;
 
-    // Check if the touched element is a key (with the 'key' class)
+    // Check if the touched element is a key (with the 'key' class).
     if (target.classList.contains('key')) {
-        const key = target.id.toLowerCase(); // Use the key's ID as the identifier
+        const key = target.id.toLowerCase(); // Use the key's ID as the identifier.
         if (noteFrequencies[key]) {
             playNote(noteFrequencies[key]);
-            // Add visual feedback to the key (e.g., change background to green)
+            // Add visual feedback to the key (i.e. change background to green).
             target.classList.add('pressed');
         }
     }
 });
 
-// Responds to the event of a UI keyboard key being released after a touch
+/** 
+ * This function responds to the event of a UI keyboard key being untouched 
+ * (and is logically equivalent to the physical key 'keyup' event listener function). 
+ */
 document.addEventListener('touchend', (event) => {
-    // Get the touched element
+    // Get the touched web page element.
     const target = event.target;
 
-    // Check if the released element is a key (with the 'key' class)
+    // Check if the released element is a key (with the 'key' class).
     if (target.classList.contains('key')) {
-        // Remove the visual feedback from the key
+        // Remove the visual feedback from the key (i.e. change background back to original color).
         target.classList.remove('pressed');
     }
 });
