@@ -3,7 +3,7 @@
  * file: sound_track_looper_two.html
  * type: Hyper-Text-Markup-Language
  * author: karbytes
- * date: 18_JANUARY_2025
+ * date: 26_JANUARY_2025
  * license: PUBLIC_DOMAIN
  */
  -->
@@ -14,6 +14,14 @@
    <title>SOUND_TRACK_LOOPER_TWO</title> 
    <link rel="stylesheet" href="karbytes_aesthetic.css">
    <link rel="stylesheet" href="bordered_container.css">
+   <style>#the_button { background: #00ff00; color: #000000; }</style>
+   <style>#add_another_sound_file_menu_button { background: #ff9000; color: #000000; }</style>
+   <style>
+      #the_button:hover, #add_another_sound_file_menu_button:hover { 
+        background: #ffff00; 
+        color: #000000;
+      }
+   </style>
    <script src="sound_track_looper_two.js"></script>
  </head>
  <body onload="load_web_page()">
@@ -33,9 +41,7 @@
      <p><input id="the_button" type="button" value="start_sound_track_looper()" onclick="start_sound_track_looper()"></p>
    </div>
    <div id="output" class="bordered_container">
-     <p>Seconds Elapsed:&nbsp;<span id="seconds_elapsed_display" class="data">???</span></p>
-     <p>Loops Completed:&nbsp;<span id="loops_completed_display" class="data">???</span></p>
-     <p>File Selected:&nbsp;<span id="file_selected_display" class="data">???</span></p>
+    <p><em>This section will be updated with information about selected sound tracks after the start button is clicked.</em></p>
    </div>
    <div class="bordered_container">
      <p class="console" id="console_display">???</p>
