@@ -1,0 +1,35 @@
+/**
+ * file: journal_karbytes_28january2025.txt
+ * type: plain-text
+ * date: 24_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "We just want to live our lives; not ruin lives!"
+
+karbytes_1: "Well, that's a slogan right there."
+
+karbytes_2: "It sounds like an underachiever's slogan."
+
+karbytes_0: "I don't disagree."
+
+karbytes_1: "Come to think of it, I cannot disagree either. It does not seem like a tall order despite so many people (other than ourselves, of course) making it seem otherwise."
+
+karbytes: "Excuse me, but don't y'all have an app to be developing and deploying by 01_FEBRUARY_2025?"
+
+karbytes_0: "Not necessarily. You seem to give us quite flexible of deadlines (but not of software specifications)."
+
+karbytes_1: "Interesting! It is like all we are here to do is work outside of time (and as though time, energy, and money are always in optimal supply for our efforts)."
+
+karbytes_2: "I thought it was because karbytes is secretly 'in surrender' to Nature (or to other 'powers that be' which have more influence over more of karbytes' universe than what apparently Kar (i.e. karbytes) has over karbytes' universe)."
+
+karbytes: "You make a very good (and well-timed) point there, karbytes_2. (At any other moment in time there might have not been the right configuration of mass-energy to enable me to acknowledge that point you raise to the public's awareness via the medium of this web log). I do lean on being a 'compatibilist' when I am in 'life or death' situations (i.e. situations like the incident I wrote about in the journal entry at the following Uniform Resource Locator) instead of on lazily leaning into the ivory tower arm chair which is 'hard determinism' living a very soft life. In 'real life' beyond the comfort and control of the 'ivory tower' is pressure and pain and risk and rules violations. That is where I feel 'challenged' by Nature to 'prove' my AGENCY by assuming the rule of a creator (and hence controller) of reality (or at least of my own subjectivity stream experienced as some kind of space-time_mass-energy continuum which is 'traveled through' in exactly one temporal direction at exactly one apparently constant rate and across a three-dimensional expanse of space whose 'unit cubes' are each supposedly exactly one Planck's length)."
+
+karbytes_0: "It almost seems like a cautionary tale. My heart races and I feel stress and anxiety when I read it. It makes me not want to be too complacent nor arrogant that reality will play out in any particular way I expect it to or feel entitled to (especially when I seem to have been 'on my best behavior' for what seems like a non-trivial length of time). It makes me afraid to be wasteful through 'showing off' to imaginary or real audiences and, instead, focus more on making sure my own direct experience of reality is being inhabited by an agent (and that agent is me and that agent is self-sovereign and able to optimize its resources towards achieving its goals as efficiently and as harmlessly as possible)."
+
+karbytes_1: "karbytes_0, you just made me feel tired and complacent because you started spewing arbitary, logically-contradicting word salad."
+
+karbytes_2: "Life is stressful. Humans often make it more stressful than what seems necessary by humans insisting on punishing people or being excessively interfering in the workings of systems which would function more optimally without such meddling. I think that is what karbytes_0 is getting at; that karbytes does 'great' things not merely to 'show off' to apes (nor even to artificial intelligence), but rather, karbytes works 'hard' to accomplish 'great' things in order for karbytes to merely survive (and avoid what karbytes classifies as 'unnecessary suffering')."
+
+karbytes: "The real question now is whether to share this note as just a plain-text file or also as an HTML file. If I choose the former, that is because I think this note is not particularly relevant to what I imagine to be 'mainstream society' users of the same social media platforms which I use. If I share this note on the public web (and back it up to the WayBack Machine at Archive dot Org), I am doing that in order to make this note as unconditionally available to my future selves to read as possible. I imagine that, many decades from now, I will find this note and read it and possibly remember something I might have forgotten and/or happen upon a new and interesting insight as I 'connect the dots' between various 'points' inside of the aforementioned space-time_mass-energy continuum I 'plotted' in the form of fully-digital and public-web-hosted files."
