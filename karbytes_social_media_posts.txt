@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 24_JANUARY_2025
+ * date: 25_JANUARY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -189,3 +189,21 @@ video_url: https://www.youtube.com/watch?v=-9cW4Gcn5WY
 On 24_JANUARY_2025 at approximately 3:00PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/journal_karbytes_27january2025/
+
+* * *
+
+On 25_JANUARY_2025 at approximately 7:30PM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+video_title: "What determines the size of an atom?"
+
+video_channel_title: "Physics Explained"
+
+video_release_date: 06_JANUARY_2025
+
+video_url: https://www.youtube.com/watch?v=0tGiwd_Zs00
+
+* * *
+
+On 25_JANUARY_2025 at approximately 7:30PM Pacific Standard Time, karbytes shared the following web article as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+https://www.thetimes.com/us/american-politics/article/ross-ulbricht-pardon-trump-reasons-silk-road-fq3lzg7q9
