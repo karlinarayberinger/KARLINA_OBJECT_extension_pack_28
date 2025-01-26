@@ -1,0 +1,27 @@
+/**
+ * file: journal_karbytes_29january2025.txt
+ * type: plain-text
+ * date: 26_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+(This journal entry web page is a sequel to the journal entry web page at the following Uniform Resource Locator: [https://karbytesforlifeblog.wordpress.com/journal_karbytes_13january2025/].)
+
+The following Uniform Resource Locators each point to exactly one (dark) web hosted single web page application whose constituent source code and media files are stored publicly on the website named Karbytes For Life Blog dot WordPress dot Com and which have been made usable via the (audio-enabled) Tor browser both on mobile devices and on desktop machines.
+
+SOUND_TRACK_LOOP_COUNTER_TWO: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/SOUND_TRACK_LOOP_COUNTER_TWO/sound_track_looper_two.html
+
+TRIANGLE_GRAPHING_TWO: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/TRIANGLE_GRAPHING_TWO/triangle_graphing_two.html
+
+BEATS_MACHINE: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/BEATS_MACHINE/beats_machine.html
+
+ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT/abridged_keyboard_musical_instrument.html
+
+* * *
+
+Note that, on 26_JANUARY_2025, karbytes made updates to the following two web page applications (and their respective documenation web pages). Those documentation web pages have corresponding hyperlinks on the web page named SOFTWARE_ENGINEERING_PORTFOLIO of the aforementioned website.
+
+SOUND_TRACK_LOOP_COUNTER_TWO: https://karbytesforlifeblog.wordpress.com/sound_track_loop_counter_two/
+
+ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT: https://karbytesforlifeblog.wordpress.com/abridged_keyboard_musical_instrument/
